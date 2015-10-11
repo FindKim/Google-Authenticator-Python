@@ -1,4 +1,4 @@
-run php locally<br/>
+run locally<br/>
 python GoogleAuthenticator.py<br/>
 http://127.0.0.1:5000/<br/>
 
